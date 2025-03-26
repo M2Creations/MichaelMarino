@@ -26,3 +26,33 @@
     height: 100px;
     border-radius: 50%;
   }
+
+    #helvetica {
+      font-family: Helvetica, sans-serif;
+    }
+
+    #arial {
+      font-family: Arial, sans-serif;
+    }
+
+    #serif {
+      font-family: serif;
+    }
+
+    #sans-serif {
+      font-family: sans-serif;
+    }
+
+    #cursive {
+      font-family: cursive;
+    }
+
+    #monospace {
+      font-family: monospace;
+    }
+
+    #fantasy {
+      font-family: fantasy;
+    } 
+    
+  
